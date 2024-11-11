@@ -1,6 +1,4 @@
-# Object Detection Model for Household Items
-
-![YOLOv5 Logo](https://github.com/ultralytics/yolov5/raw/master/docs/images/yolov5-logo.png)
+# Real-Time Object Detection System
 
 ## Overview
 
